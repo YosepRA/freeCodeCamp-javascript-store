@@ -1,0 +1,24 @@
+{
+  "name": "javascript-store",
+  "version": "1.0.0",
+  "description": "freeCodeCamp - E-Commerce JavaScript tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosepRA/freeCodeCamp-javascript-store.git"
+  },
+  "author": "YosepRA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosepRA/freeCodeCamp-javascript-store/issues"
+  },
+  "homepage": "https://github.com/YosepRA/freeCodeCamp-javascript-store#readme",
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^2.0.2"
+  }
+}
