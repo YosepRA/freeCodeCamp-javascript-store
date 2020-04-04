@@ -1,0 +1,3 @@
+[submodule "freeCodeCamp-javascript-store-dist-files"]
+	path = freeCodeCamp-javascript-store-dist-files
+	url = git@github.com:YosepRA/freeCodeCamp-javascript-store-dist-files.git
