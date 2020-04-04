@@ -18,6 +18,13 @@
     "linebreak-style": ["error", "windows"],
     "quotes": ["error", "single"],
     "semi": ["error", "always"],
-    "prettier/prettier": ["error", { "singleQuote": true, "endOfLine": "auto" }]
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": true,
+        "endOfLine": "auto",
+        "arrowParens": "avoid"
+      }
+    ]
   }
 }
